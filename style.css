@@ -1,3 +1,6 @@
+.background{
+background: linear-gradient(DeepSkyBlue, Black);
+}
 .table{
   width: 100%;
   position: fixed;
@@ -6,5 +9,5 @@
   transform: translate(-50%,-50%);
   text-align: center;
   vertical-align: middle;
-  background: linear-gradient(DeepSkyBlue, Black);
 }
+  
