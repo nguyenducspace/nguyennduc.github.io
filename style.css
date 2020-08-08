@@ -1,7 +1,5 @@
-.background{
-background: linear-gradient(DeepSkyBlue, Black);
-}
 .table{
-  margin: 0 auto;
+  display:inline-block;
+  text-align:center;
 }
   
