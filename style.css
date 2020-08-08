@@ -2,6 +2,8 @@
 background: linear-gradient(DeepSkyBlue, Black);
 }
 .table{
+  margin-right: 3%;
+  margin-left: 3%;
   width: 100%;
   position: fixed;
   top: 50%;
