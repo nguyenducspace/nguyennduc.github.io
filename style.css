@@ -141,9 +141,9 @@ ul.job-description li:before{
 
 footer {
  padding: 1em 1.5em;
- background: #A7B8BF;
+ background: #452424;
  color: white;
- text-align: right;
+ text-align: center;
 }
 
 @media only screen and (max-width: 768px) {
