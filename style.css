@@ -128,7 +128,7 @@ a .fab {
   text-transform: capitalize;
 }
 
-.school span, .job-title span {
+.skills span, .job-title span {
   color: #889499;
   text-decoration: underline;
 }
